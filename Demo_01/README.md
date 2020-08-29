@@ -17,3 +17,7 @@ The code in the `train.py` script has been adapted from [here](https://github.co
    $ docker build -t wandb:v1 .
    $ docker run -e WANDB_KEY=$WANDB_KEY wandb:v1
    ```
+
+   The final output should be like so (run page link has been highlighted) -
+   
+   ![](https://i.ibb.co/VDwcQWD/Screen-Shot-2020-08-29-at-3-16-32-PM.png)
