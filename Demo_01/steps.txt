@@ -1,0 +1,2 @@
+$ docker build -t try:v11 .
+$ docker run -e WANDB_KEY=$WANDB_KEY try:v11
